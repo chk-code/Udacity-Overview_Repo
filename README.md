@@ -10,6 +10,7 @@ Completed Nanodegrees
 
 ### Marketing Analytics
 [ND9990: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
+
 P1. [Project 1](https://github.com)
 
 P2. [Project 2](https://github.com)
@@ -21,6 +22,7 @@ Completed Nanodegrees
 
 ### Marketing Analytics
 [ND028 Marketing Analytics](https://www.udacity.com/course/marketing-analytics-nanodegree--nd028)
+
 P1. [Project 1](https://github.com)
 
 P2. [Project 2](https://github.com)
@@ -29,6 +31,7 @@ P3. [Project 3](https://github.com)
 
 ### Product Manager
 [ND036: Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
+
 P1. [Project 1](https://github.com)
 
 P2. [Project 2](https://github.com)
