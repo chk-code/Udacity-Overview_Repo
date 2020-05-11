@@ -8,7 +8,7 @@ Code, Ideas and Solutions may be used by anyone - please follow the [Udacity Hon
 ## School of Cloud Computing
 Completed Nanodegrees
 
-### Marketing Analytics
+### Cloud Developer
 [ND9990: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
 
 P1. [Project 1](https://github.com)
@@ -32,11 +32,13 @@ P3. [Project 3](https://github.com)
 ### Product Manager
 [ND036: Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
 
-P1. [Project 1](https://github.com)
+P1. [Pitch a Product Vision](https://github.com/chk-code/PMND-01-Pitch_Product_Vision)
 
-P2. [Project 2](https://github.com)
+P2. [Run a Design Sprint](https://github.com/chk-code/PMND-02-Run_Design_Sprint)
 
-P3. [Project 3](https://github.com)
+P3. [Manage the Product Development Process](https://github.com)
+
+P4. [Deliver a Product to Market](https://github.com)
 
 ## Other
 ### ...
