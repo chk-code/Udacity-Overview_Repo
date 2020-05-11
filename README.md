@@ -23,11 +23,21 @@ Completed Nanodegrees
 ### Marketing Analytics
 [ND028 Marketing Analytics](https://www.udacity.com/course/marketing-analytics-nanodegree--nd028)
 
-P1. [Project 1](https://github.com)
+P1. [Working with Data](https://github.com)
 
-P2. [Project 2](https://github.com)
+P2. [Analyze Survey Data](https://github.com)
 
-P3. [Project 3](https://github.com)
+P3. [Storytelling with Data](https://github.com)
+
+P4. [Data Visualization Project](https://github.com)
+
+P5. [Use Advanced Displays, Segments & Views](https://github.com)
+
+P6. [Navigating, Dashboards & Reports](https://github.com)
+
+P7. [Crafting an Analytic Brief](https://github.com)
+
+P8. [Create a Proposal for the Next Quarter](https://github.com)
 
 ### Product Manager
 [ND036: Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
@@ -36,9 +46,9 @@ P1. [Pitch a Product Vision](https://github.com/chk-code/PMND-01-Pitch_Product_V
 
 P2. [Run a Design Sprint](https://github.com/chk-code/PMND-02-Run_Design_Sprint)
 
-P3. [Manage the Product Development Process](https://github.com)
+P3. [Manage the Product Development Process](https://github.com/chk-code/PMND-03-Manage_ProdDev_Proc)
 
-P4. [Deliver a Product to Market](https://github.com)
+P4. [Deliver a Product to Market](https://github.com/chk-code/PMND-04-Deliver_Prod_Market)
 
 ## Other
 ### ...
