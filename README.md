@@ -23,21 +23,21 @@ Completed Nanodegrees
 ### Marketing Analytics
 [ND028 Marketing Analytics](https://www.udacity.com/course/marketing-analytics-nanodegree--nd028)
 
-P1. [Working with Data](https://github.com)
+P1. [Working with Data](https://github.com/chk-code/MAND-01-Working_w_Data)
 
-P2. [Analyze Survey Data](https://github.com)
+P2. [Analyze Survey Data](https://github.com/chk-code/MAND-02-Analyze_Survey_Data)
 
-P3. [Storytelling with Data](https://github.com)
+P3. [Storytelling with Data](https://github.com/chk-code/MAND-03-Storytelling_w_Data)
 
-P4. [Data Visualization Project](https://github.com)
+P4. [Data Visualization Project](https://github.com/chk-code/MAND-04-DataViz_Project)
 
-P5. [Use Advanced Displays, Segments & Views](https://github.com)
+P5. [Use Advanced Displays, Segments & Views](https://github.com/chk-code/MAND-05-Advanced-Displays-Segments-Views)
 
-P6. [Navigating, Dashboards & Reports](https://github.com)
+P6. [Navigating, Dashboards & Reports](https://github.com/chk-code/MAND-06-Navigating-Dashboards-Reports)
 
-P7. [Crafting an Analytic Brief](https://github.com)
+P7. [Crafting an Analytic Brief](https://github.com/chk-code/MAND-07-Crafting_Analytic_Brief)
 
-P8. [Create a Proposal for the Next Quarter](https://github.com)
+P8. [Create a Proposal for the Next Quarter](https://github.com/chk-code/MAND-08-Create_Proposal_Next_Quarter)
 
 ### Product Manager
 [ND036: Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
