@@ -9,7 +9,7 @@ Code, Ideas and Solutions may be used by anyone - please follow the [Udacity Hon
 Completed Nanodegrees
 
 ### Cloud Developer
-[ND9990: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
+> [ND9990: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
 
 P1. [Project 1](https://github.com)
 
@@ -21,7 +21,7 @@ P3. [Project 3](https://github.com)
 Completed Nanodegrees
 
 ### Marketing Analytics
-[ND028 Marketing Analytics](https://www.udacity.com/course/marketing-analytics-nanodegree--nd028)
+> [ND028 Marketing Analytics](https://www.udacity.com/course/marketing-analytics-nanodegree--nd028)
 
 P1. [Working with Data](https://github.com/chk-code/MAND-01-Working_w_Data)
 
@@ -40,7 +40,7 @@ P7. [Crafting an Analytic Brief](https://github.com/chk-code/MAND-07-Crafting_An
 P8. [Create a Proposal for the Next Quarter](https://github.com/chk-code/MAND-08-Create_Proposal_Next_Quarter)
 
 ### Product Manager
-[ND036: Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
+> [ND036: Product Manager](https://www.udacity.com/course/product-manager-nanodegree--nd036)
 
 P1. [Pitch a Product Vision](https://github.com/chk-code/PMND-01-Pitch_Product_Vision)
 
