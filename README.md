@@ -13,7 +13,7 @@ Completed Nanodegrees
 
 P1. [Project 1](https://github.com)
 
-P2. [Project 2](https://github.com)
+P2. [Engineering Full Stack Apps in the Cloud](https://github.com/chk-code/CDND-02-Engineering_FullStackAppsCloud)
 
 P3. [Project 3](https://github.com)
 
