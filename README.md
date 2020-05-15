@@ -13,7 +13,7 @@ Completed Nanodegrees
 
 P1. [Project 1](https://github.com)
 
-P2. [Engineering Full Stack Apps in the Cloud](https://github.com/chk-code/CDND-02-Engineering_FullStackAppsCloud)
+P2. [Udagram: Your Own Instagram on AWS](https://github.com/chk-code/cdnd-02-image-filter)
 
 P3. [Project 3](https://github.com)
 
