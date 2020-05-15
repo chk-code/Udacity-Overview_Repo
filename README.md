@@ -11,11 +11,11 @@ Completed Nanodegrees
 ### Cloud Developer
 > [ND9990: Cloud Developer](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990)
 
-P1. [Project 1](https://github.com)
+P1. [Deploy Static Website on AWS](https://github.com/chk-code/cdnd-01-staticwebsite)
 
 P2. [Udagram: Your Own Instagram on AWS](https://github.com/chk-code/cdnd-02-image-filter)
 
-P3. [Project 3](https://github.com)
+P3. [Refactor Monolith to Microservices](https://github.com/chk-code/cdnd-03-microservices)
 
 ## School of Business
 Completed Nanodegrees
