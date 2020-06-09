@@ -19,6 +19,8 @@ P3. [Refactor Monolith to Microservices](https://github.com/chk-code/cdnd-03-mic
 
 P4. [Serverless Application](https://github.com/chk-code/cdnd-04-serverless)
 
+P5. [Capstone Project: Image conversion jobs](https://github.com/chk-code/cdnd-05-3dinpainting)
+
 ## School of Business
 Completed Nanodegrees
 
